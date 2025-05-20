@@ -124,7 +124,7 @@ I’ve worked with cyber defense agencies, simulated **SS7 attacks**, reverse-en
 
 ## 🔗 **Connect With Me**
 - **GitHub**: [github.com/sniper4u2](https://github.com/sniper4u2)  
-- **Email**: [hamzaouisofiene2@gmail.com](mailto:hamzaouisofiene2@gmail.com)  
+- **Email**: [sofienehamzaoui2@gmail.com](mailto:hamzaouisofiene2@gmail.com)  
 - **Tools Case**: [start.me Profile](https://start.me)  
 
 ---
