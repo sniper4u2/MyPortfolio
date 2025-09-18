@@ -97,6 +97,31 @@ I’ve worked with cyber defense agencies, simulated **SS7 attacks**, reverse-en
 
 ---
 
+### 🔥 **Advanced C2 Server with GSM/SS7 Capabilities**
+A cutting-edge Command & Control server with real mobile network exploitation capabilities.
+
+**Key Features:**
+- **Real-time Agent Monitoring**: Live tracking of compromised devices
+- **Advanced Payload Generation**: Custom malware payload creation system
+- **GSM/SS7 Network Exploitation**: Mobile network protocol manipulation and interception
+- **0-Click Exploit Framework**: Automated vulnerability exploitation engine
+- **Web-based Dashboard**: Interactive command and control interface
+- **Secure Communications**: Military-grade encryption and authentication
+
+**Technical Stack:**
+- Backend: Python, FastAPI, WebSockets
+- Frontend: Next.js, React, TypeScript
+- Protocols: GSM, SS7, HTTP/HTTPS
+- Database: Redis, MongoDB
+- Security: AES-256 encryption, JWT authentication
+
+**Demonstration:**
+- [Live Demo Available](http://localhost:3000) (When running locally)
+- [Source Code](https://github.com/sniper4u2/c2server)
+- [API Documentation](http://localhost:8000/docs)
+
+---
+
 ### 📊 **Logs & Reports**
 - **LLM Quantization Benchmarks**:  
   - [View Logs](https://gist.github.com/sniper4u2/quantization-logs)  
